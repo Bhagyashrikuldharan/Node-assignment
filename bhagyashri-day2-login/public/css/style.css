@@ -1,0 +1,13 @@
+form{
+    margin-top: 200px;
+    margin-left: 40%;
+    font-size: 20px;
+}
+.submit{
+    width: 150px;
+    height: 35px;
+    font-size: 17px;
+    background-color: rgb(81, 81, 219);
+    border-color: rgb(81, 81, 219);
+}
+
